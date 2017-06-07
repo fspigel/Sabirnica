@@ -17,5 +17,6 @@ private:
     BusController & mCntrl;
     int mMode;
     std::chrono::time_point<std::chrono::system_clock> mStartTime;
+    float value;
 };
 #endif // DATAFAST_H_INCLUDED

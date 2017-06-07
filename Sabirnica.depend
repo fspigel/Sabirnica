@@ -68,7 +68,7 @@
 	<iostream>
 	<time.h>
 
-1496751093 c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\datafast.h
+1496851805 c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\datafast.h
 	"DataGenerator.h"
 	"Instrument.h"
 	"BusController.h"
@@ -76,13 +76,14 @@
 
 1496671822 c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\datagenerator.h
 
-1496671822 source:c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\main.cpp
+1496837846 source:c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\main.cpp
 	<iostream>
 	<vector>
 	"Instrument.h"
 	"DataFast.h"
 	"DataRecorder.h"
 	"Statistics.h"
+	"Maximum.h"
 	"BusController.h"
 	<string>
 
@@ -98,7 +99,7 @@
 	<string>
 	<iostream>
 
-1496837786 source:c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\maximum.cpp
+1496850708 source:c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\maximum.cpp
 	"Maximum.h"
 	<string>
 	<iostream>

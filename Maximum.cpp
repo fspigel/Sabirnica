@@ -9,8 +9,10 @@ void Maximum::send(std::string name) {
         if(mNoReads != 0) {
             maximum = mCntrl.receive(port);
             float temp;
+            std::cout << "checking for max value: " << maximum << std::endl;
             for (int i = 1; i < mNoReads; ++i) {
                 temp = mCntrl.receive(port);
+                std::cout << "checking for max value: " << temp << std::endl;
                 if(temp>maximum) maximum=temp;
             }
         }
