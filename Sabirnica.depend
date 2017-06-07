@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1496700039 source:c:\users\matija\cpp\sabirnica\datafast.cpp
+	"DataFast.h"
+	<chrono>
+	<string>
+	<math.h>
+
+1496699646 c:\users\matija\cpp\sabirnica\datafast.h
+	"DataGenerator.h"
+	"Instrument.h"
+	"BusController.h"
+	<chrono>
+
+1496693426 c:\users\matija\cpp\sabirnica\datagenerator.h
+
+1496692820 c:\users\matija\cpp\sabirnica\instrument.h
+	<string>
+
+1496697925 c:\users\matija\cpp\sabirnica\buscontroller.h
+	"Instrument.h"
+	<string>
+	<vector>
+
+1496692827 source:c:\users\matija\cpp\sabirnica\main.cpp
+	<iostream>
+	<vector>
+	"Instrument.h"
+	"DataFast.h"
+	"DataRecorder.h"
+	"Statistics.h"
+	"BusController.h"
+	<string>
+
+1496688030 c:\users\matija\cpp\sabirnica\datarecorder.h
+
+1496696730 c:\users\matija\cpp\sabirnica\statistics.h
+	"BusController.h"
+	"Instrument.h"
+	"DataRecorder.h"
+
+1496697118 source:c:\users\matija\cpp\sabirnica\statistics.cpp
+	"Statistics.h"
+	<string>
+
+1496697770 source:c:\users\matija\cpp\sabirnica\buscontroller.cpp
+	"BusController.h"
+	<iostream>
+	<stdexcept>
+
+1496752573 source:c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\buscontroller.cpp
+	"BusController.h"
+	<iostream>
+	<stdexcept>
+
+1496753389 c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\buscontroller.h
+	"Instrument.h"
+	<string>
+	<vector>
+
+1496671822 c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\instrument.h
+	<string>
+
+1496837541 source:c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\datafast.cpp
+	"DataFast.h"
+	<chrono>
+	<string>
+	<math.h>
+	<iostream>
+	<time.h>
+
+1496751093 c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\datafast.h
+	"DataGenerator.h"
+	"Instrument.h"
+	"BusController.h"
+	<chrono>
+
+1496671822 c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\datagenerator.h
+
+1496671822 source:c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\main.cpp
+	<iostream>
+	<vector>
+	"Instrument.h"
+	"DataFast.h"
+	"DataRecorder.h"
+	"Statistics.h"
+	"BusController.h"
+	<string>
+
+1496671822 c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\datarecorder.h
+
+1496753414 c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\statistics.h
+	"BusController.h"
+	"Instrument.h"
+	"DataRecorder.h"
+
+1496752785 source:c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\statistics.cpp
+	"Statistics.h"
+	<string>
+	<iostream>
+
+1496837786 source:c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\maximum.cpp
+	"Maximum.h"
+	<string>
+	<iostream>
+
+1496837632 c:\users\fspigel\desktop\sabirnica--master\sabirnica--master\maximum.h
+	"BusController.h"
+	"Instrument.h"
+	"DataRecorder.h"
+
